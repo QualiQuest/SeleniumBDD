@@ -41,6 +41,10 @@ namespace Mns.SeleniumBDD.ApplicationLayer.Pages
             return new ForgottenPasswordPage();
         }
         
+        public string GetLoginFailureMessage()
+        {
+           return GetElementsText(LocateElement("//div[@id='alertBanner']//span[starts-with(text(),'Your')]"));
+        }
         public CustomerDataPromisePage GoToCustomerDatapromisePage()
         {
             ClickOnElement(customerDataPromiseLink);

@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Mns.SeleniumBDD.ApplicationLayer.Pages;
+using TechTalk.SpecFlow;
 
 namespace Mns.SeleniumBDD.FrameworkLayer.TestBase
 {
@@ -89,6 +90,11 @@ namespace Mns.SeleniumBDD.FrameworkLayer.TestBase
             elementToClickOn.Click();
         }
 
+        /// <summary>
+        /// get the text contained in the web element specified to it as parameter when invoked
+        /// </summary>
+        /// <param name="elementToGetTextFor"></param>
+        /// <returns></returns>
         public string GetElementsText(IWebElement elementToGetTextFor)
         {
             return elementToGetTextFor.Text;
@@ -99,5 +105,8 @@ namespace Mns.SeleniumBDD.FrameworkLayer.TestBase
             SelectElement selectElement = new SelectElement(dropdownToSelectFrom);
             selectElement.SelectByText(itemNameToSelect);
         }
+
+      
+
     }
 }
