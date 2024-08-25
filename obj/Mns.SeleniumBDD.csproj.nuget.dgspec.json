@@ -65,6 +65,22 @@
               "target": "Package",
               "version": "[4.4.2, )"
             },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "SpecFlow.Assist.Dynamic": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[3.2.0, )"

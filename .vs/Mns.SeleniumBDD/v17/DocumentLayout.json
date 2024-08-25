@@ -1,7 +1,84 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\testlayer\\stepdefinition\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:testlayer\\stepdefinition\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\testhook\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:testhook\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\frameworklayer\\utility\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:frameworklayer\\utility\\pathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:frameworklayer\\testbase\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\testlayer\\featurefiles\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:testlayer\\featurefiles\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\frameworklayer\\resource\\environmentvariable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:frameworklayer\\resource\\environmentvariable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\userhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\bagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\bagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\customerdatapromisepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\customerdatapromisepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\forgottenpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\forgottenpasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\wishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\wishlistpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\createaccountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\applicationlayer\\pages\\basketpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:applicationlayer\\pages\\basketpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\frameworklayer\\utility\\scrollactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:frameworklayer\\utility\\scrollactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|c:\\users\\jenni\\source\\repos\\mns.seleniumbdd\\frameworklayer\\utility\\variablevaluereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C513B1-9188-4D90-87B0-52FC6BAA3242}|Mns.SeleniumBDD.csproj|solutionrelative:frameworklayer\\utility\\variablevaluereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +99,253 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnvironmentVariable.json",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "RelativeToolTip": "FrameworkLayer\\Resource\\EnvironmentVariable.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T16:36:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestHook\\Hooks.cs",
+              "RelativeDocumentMoniker": "TestHook\\Hooks.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestHook\\Hooks.cs",
+              "RelativeToolTip": "TestHook\\Hooks.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:11:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestLayer\\StepDefinition\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "TestLayer\\StepDefinition\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestLayer\\StepDefinition\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "TestLayer\\StepDefinition\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T15:03:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestLayer\\Featurefiles\\Login.feature",
+              "RelativeDocumentMoniker": "TestLayer\\Featurefiles\\Login.feature",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\TestLayer\\Featurefiles\\Login.feature",
+              "RelativeToolTip": "TestLayer\\Featurefiles\\Login.feature",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYhSURBVFhHnZd7TFNXHMe/ty1QHi2oyFMRRFGZrznF19zUGUPcjC4bD/1D90imLi7GzJiYuS3O6IwxS5YlxswsJkYHoqCZwTiyTNxUjNO4BVRERVHGWxnQCrS0d99zelta2iL4ab73nPNre8\u002B5v/M7v3OuguFSNEaB6gylwqEoBpYqSzv0SjciIu1YcV/74RBQVXXoAzgeb4ROmQAF09gaT42hoigH9R/t9VBRS92CXa3FumY77S/kxQMoijfAqcxkLY\u002BaT02loqmBOKlnVBVVTp2AzlCD3HphD4peKwND56LStIXXb9laTqVRRvFVAMTDRFCp1BzqDTgdLSi2VrMelMAeOJKqwGhLguLcw9Z6l/GlUPnZxhg5jPzGLs3mg78HVOquMQWKupu1fMogzG6iQ8wI1YXA5rRpFiBcb0S8cTSn3o4\u002BVYSEB4WfLBZdyDFV4pTFLy78BzAlwczrZuojKlKY3GSaM7B/5k5kjZqJh9bHeGprR6QhAutSc/D5pI1Ii0zBxdYK7dcewqkMPlg1VkU\u002BwGmreEQPOq3sR8WrvG6gTLLtRX7KaqmN6euRM3YlIvThSGWnOzI/w9tJy7Bt8qcwcGUGIJWe\u002BAShSrzW9uA7gKL4EP5QBFycy\u002BDLfcsjOFUVRn0YFsRmISY0Gq\u002BNmIaUCLEigXtdtZyCPlkfgOjnHWqlbHnhOwCnMpvXea6Gi9TIscgwpUtXl9SX4nzTBfQ4emHts8LB\u002Be6wd8HutKPWUoc9d77X/hUQEfAf42ySz7T7xsD7UVt5XeBqMNtEpeDQ7P1YnZyNV6In4XbnPZxvvICG7iaUt15BVUc1Ovs65SCOPCpEWVN5MA\u002B4iYcNBSi2PNXaclQuSpLDYXP8zprHA2vGvYuf5x2U9V5G/eXWa8j\u002BYy3dxmxMm1gJOkWHMF2o/N6pDppz3GxAftOPWt1rCmxOkUBGuRouzjX8hrMNZfiXT2yhyzPM6VgUO1d25l6GotNuR89QOxfM0kpJvwcKExbyepwaJ9saJkMUFo7OQqIxTg6kvOUyOx9Smg9GKT0gAlLiHYS\u002BAalhdTzHzfZKXG67hoq264N2rud0TIuegllcGSNCYzSrHyIveOjvVFEtvPpEkF7R45up21H2ZiHOLjqKssWFmMQVEYx9M3ai5PWfcHLBYRQv/AnZiUu0b3zw6cNrAEoLrz2uhotcJpsvMrdgekwmJprGIzZsJJp6WmTgCbkR\u002BVbwd3sVEjhV46PGYUncAhnA7u\u002B8qNNKSf8yzIl5zsNFNmsZLgMQExKNxXHzGWS9uPbsJr6q2s8l2IyVycsRZ4yVMRFliMSKpLdgNphwsa1C5gZhs3FfuNT2F04\u002B\u002BUW7m4dj3BOuavUBwzuRuJWnlO\u002B0lkyrYgBGbjZ3u\u002B7joeUJ9k7fgQ/S8nCF8bDpxna5CZUuOoaWnjZ8XXUAvzJRTTFPxOiwWNR0PUDd83rtbm7UOchvvq41Bg4gbgxUXQ1rPoHiZmr0ZFxdViqzYsXTG1hbsYlpOBnlS0ukq2931mDG\u002BaUDd0RvHkPnmIjcVs9W6hv5eS31vI/IPAHvMHvkDNm5g2tezHeHvVPGRA33AIEI0DTOfxDEPQ96dy7w345zTeJsN5e1ZJehnx5nr3Sv6PDQg6OyFElISAzsEpdqQd1pngsCpuM7dP9enLK2am2JX4gyDnjiVd9jbR\u002BVIm1epEel0m2KnFt3ThBBJxJVm\u002B0Z2m0d0jYALnEecHTqD8ht6dZsEv8BCArjeRBRPmRtFzVS2l4esW2UMs9sRlxzHQakhsADcFOQsJq/OMCamNiAJ40hcIU5ZgPyGsVp2Q//GPCm2FLNLVqsWbEqhCfEKWnwQftyi9O5hbn/htb2Y/ABCNabG2DHn\u002Bz3H7aaKXEsF4k\u002BhAqGiHjxbvAl1jSLMihDf5pzExR0WE38B89ffCrwjBeYXuoM3b6Hryq3saYxaFIQDMedLoqSI\u002BB07uAgdmoWgQg0ce5/SO2GOeoM3xEH7dhNwC14GIiOn1Ai4e\u002BColvF\u002BS4eaueC4XvgRKKR3fKFRV1CN4sgq5TxoetrYpYb8rHIzfAHUJDA/yh8eVFDYDB0IqfeJ7UOD\u002BB/6GsWIRcZqa4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-24T14:57:13.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WishListPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\WishListPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\WishListPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\WishListPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\WishListPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:31:35.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserHomepage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\UserHomepage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\UserHomepage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\UserHomepage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\UserHomepage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:31:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ProductsPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\ProductsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:31:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ProductPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ProductPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\ProductPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:30:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA8wBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:30:44.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LandingPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\LandingPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\LandingPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\LandingPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\LandingPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:30:30.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgottenPasswordPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ForgottenPasswordPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\ForgottenPasswordPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\ForgottenPasswordPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\ForgottenPasswordPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:30:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDataPromisePage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\CustomerDataPromisePage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\CustomerDataPromisePage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\CustomerDataPromisePage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\CustomerDataPromisePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:30:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateAccountPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\CreateAccountPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:29:08.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\BasketPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\BasketPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\BasketPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\BasketPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:29:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BagPage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\BagPage.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Pages\\BagPage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\ApplicationLayer\\Pages\\BagPage.cs",
+              "RelativeToolTip": "ApplicationLayer\\Pages\\BagPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:27:36.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScrollActions.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\ScrollActions.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\ScrollActions.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\ScrollActions.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\ScrollActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:19:11.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VariableValueReader.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\VariableValueReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:18:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathHelper.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\PathHelper.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\Utility\\PathHelper.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\Utility\\PathHelper.cs",
+              "RelativeToolTip": "FrameworkLayer\\Utility\\PathHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:18:13.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\TestBase\\BasePage.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\TestBase\\BasePage.cs",
+              "ToolTip": "C:\\Users\\jenni\\source\\repos\\Mns.SeleniumBDD\\FrameworkLayer\\TestBase\\BasePage.cs",
+              "RelativeToolTip": "FrameworkLayer\\TestBase\\BasePage.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwG8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:16:56.54Z",
+              "EditorCaption": ""
             }
           ]
         }

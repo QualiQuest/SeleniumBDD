@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mns.SeleniumBDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddfb2f8bbd3753c8d8d0eb03bebfbcfe7803dd96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mns.SeleniumBDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mns.SeleniumBDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
