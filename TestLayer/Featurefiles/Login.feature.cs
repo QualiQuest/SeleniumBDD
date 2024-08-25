@@ -118,9 +118,8 @@ this.FeatureBackground();
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("QQRisk-3655 Verify that unregistered users are not able to login to the applicati" +
             "on")]
-        [NUnit.Framework.TestCaseAttribute("Jennifer_chukwudum\"\"yahoo.com", "Jenny@m&s24", null)]
-        [NUnit.Framework.TestCaseAttribute("Jennifer_chukwudum@yahoo.co", "Jenny@m&s24", null)]
         [NUnit.Framework.TestCaseAttribute("Jennifer_chukwudum@yahoo.com", "Jennyxxxxx@m&s24", null)]
+        [NUnit.Framework.TestCaseAttribute("Jennifer_chukwudxxxxx@yahoo.com", "Jenny@m&s24", null)]
         public void QQRisk_3655VerifyThatUnregisteredUsersAreNotAbleToLoginToTheApplication(string username, string password, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;
@@ -154,6 +153,39 @@ this.FeatureBackground();
 #line 30
  testRunner.Then("User should be shown the error message \"Your email address or password is incorre" +
                         "ct. Please try again.\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            }
+            this.ScenarioCleanup();
+        }
+        
+        [NUnit.Framework.TestAttribute()]
+        [NUnit.Framework.DescriptionAttribute("QQRisk-3656 Verify that only valid email address is accepted while users attempt " +
+            "to login")]
+        public void QQRisk_3656VerifyThatOnlyValidEmailAddressIsAcceptedWhileUsersAttemptToLogin()
+        {
+            string[] tagsOfScenario = ((string[])(null));
+            System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("QQRisk-3656 Verify that only valid email address is accepted while users attempt " +
+                    "to login", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 38
+this.ScenarioInitialize(scenarioInfo);
+#line hidden
+            if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
+            {
+                testRunner.SkipScenario();
+            }
+            else
+            {
+                this.ScenarioStart();
+#line 17
+this.FeatureBackground();
+#line hidden
+#line 40
+ testRunner.When("User enters an invalid email address \"Jennifer_chukwudum@yahoo.\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line hidden
+#line 41
+ testRunner.Then("User should be shown the error message \"Please enter a valid email address\" to co" +
+                        "nfirm that only valid email address is accepted", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

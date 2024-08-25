@@ -106,7 +106,11 @@ namespace Mns.SeleniumBDD.FrameworkLayer.TestBase
             selectElement.SelectByText(itemNameToSelect);
         }
 
-      
-
+        public void TakeScreenshot(string screenshotFileName)
+        {
+            Screenshot screenshot = ((ITakesScreenshot)Driver).GetScreenshot();
+            var saveToPath = PathHelper.GetPathToFile($"{screenshotFileName.Replace(" ", "")}.png", "SccrenshotOutput");
+            screenshot.SaveAsFile(saveToPath);
+        }
     }
 }

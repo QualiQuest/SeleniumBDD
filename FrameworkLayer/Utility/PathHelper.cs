@@ -20,6 +20,13 @@ namespace Mns.SeleniumBDD.FrameworkLayer.Utility
             else fileLocation = Path.Combine(folderName, fileName);
 
             var fullPath = Path.Combine(currentDirectory, fileLocation);
+
+            var directoryPath = Path.GetDirectoryName(fullPath);
+            if (!Directory.Exists(directoryPath))
+            {
+                // If not, create the directory
+                Directory.CreateDirectory(directoryPath);
+            }
             return fullPath;
         }
     }

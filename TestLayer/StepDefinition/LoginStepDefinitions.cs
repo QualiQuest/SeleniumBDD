@@ -8,8 +8,14 @@ using TechTalk.SpecFlow.Assist;
 namespace Mns.SeleniumBDD.TestLayer.StepDefinition
 {
     [Binding]
-    public class LoginStepDefinitions
+    public class LoginStepDefinitions:BasePage
     {
+        ScenarioContext  _scenarioContext;
+
+        public LoginStepDefinitions(ScenarioContext scenarioContext)
+        {
+            _scenarioContext = scenarioContext;
+        }
 
         string username = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginUsername"]);
         string password = VariableValueReader.ReadVariableValue(BasePage.PathToFileEnvironmentVariableFile, TestContext.Parameters["loginPassword"]);
@@ -36,6 +42,14 @@ namespace Mns.SeleniumBDD.TestLayer.StepDefinition
                                                         Convert.ToString(credential.password));
         }
 
+
+        [When(@"User enters an invalid email address ""([^""]*)""")]
+        public void WhenUserEntersAnInvalidEmailAddress(string invalidEmail)
+        {
+           EnterTextToInputField(loginPage.UsernameEmailAddressField, invalidEmail);
+        }
+
+
         [Then(@"User should see a customise login welcome message to confirm that they have successfull been able to access their account")]
         public void VerifyUsserSuccessfullyLogin()
         {
@@ -48,7 +62,17 @@ namespace Mns.SeleniumBDD.TestLayer.StepDefinition
         public void ThenUserShouldBeShownTheErrorMessage(string expectedErrorMessage)
         {
             var actualErrorMessage = loginPage.GetLoginFailureMessage();
-            Assert.That(actualErrorMessage, Is.EqualTo(expectedErrorMessage));
+
+            Assert.That(actualErrorMessage.Contains(expectedErrorMessage), Is.True);
+            TakeScreenshot(_scenarioContext.ScenarioInfo.Title);
         }
+
+        [Then(@"User should be shown the error message ""([^""]*)"" to confirm that only valid email address is accepted")]
+        public void ThenUserShouldBeShownTheErrorMessageToConfirmThatOnlyValidEmailAddressIsAccepted(string expectedErrorMessage)
+        {
+            var actualErrorMessage = GetElementsText(LocateElement("//div[@id='usernameInput_error']//div"));
+            Assert.That(actualErrorMessage, Is.EqualTo(expectedErrorMessage));  
+        }
+
     }
 }

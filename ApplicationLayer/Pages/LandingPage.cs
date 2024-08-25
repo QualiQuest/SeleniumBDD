@@ -12,7 +12,7 @@ namespace Mns.SeleniumBDD.ApplicationLayer.Pages
 {
     public class LandingPage:BasePage
     {
-        IWebElement signinBtn => LocateElement("//p[.='Sign in']");
+        IWebElement signinBtn => LocateElement("//p[.='Sign inn']");
 
         public LoginPage GotoLoginPage()
         {

@@ -30,7 +30,14 @@ Scenario Outline: QQRisk-3655 Verify that unregistered users are not able to log
 	Then User should be shown the error message "Your email address or password is incorrect. Please try again."
 
 Examples:
-	| Username                      | Password         |
-	| Jennifer_chukwudum""yahoo.com | Jenny@m&s24      |
-	| Jennifer_chukwudum@yahoo.co   | Jenny@m&s24      |
-	| Jennifer_chukwudum@yahoo.com  | Jennyxxxxx@m&s24 |
+	| Username                        | Password         |
+	| Jennifer_chukwudum@yahoo.com    | Jennyxxxxx@m&s24 |
+	| Jennifer_chukwudxxxxx@yahoo.com | Jenny@m&s24      |
+
+
+Scenario: QQRisk-3656 Verify that only valid email address is accepted while users attempt to login
+	#Given User is already on the login page
+	When User enters an invalid email address "Jennifer_chukwudum@yahoo."
+	Then User should be shown the error message "Please enter a valid email address" to confirm that only valid email address is accepted
+
+ 
